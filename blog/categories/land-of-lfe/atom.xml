@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Programming Atomically]]></title>
-  <link href="http://jschairb.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Land of LFE | Programming Atomically]]></title>
+  <link href="http://jschairb.github.io/blog/categories/land-of-lfe/atom.xml" rel="self"/>
   <link href="http://jschairb.github.io/"/>
   <updated>2014-03-19T13:02:15-05:00</updated>
   <id>http://jschairb.github.io/</id>
